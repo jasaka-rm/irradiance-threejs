@@ -17,3 +17,10 @@ npm run dev
 
 # Build for production (output in the dist/ directory)
 npm run build
+```
+
+📸 App Preview
+
+Below is an example of the Irradiance application in action.
+
+![App Screenshot](static/cap.png)
