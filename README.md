@@ -19,7 +19,7 @@ npm run dev
 npm run build
 ```
 
-📸 App Preview
+## 📸 App Preview
 
 Below is an example of the Irradiance application in action.
 
